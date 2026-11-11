@@ -1,0 +1,22 @@
+RESPUESTAS Y EVALUACIÓN TEÓRICA DEL PROYECTO
+==================================================
+
+1. PALETA DE COLORES Y DISEÑO:
+- Fondo general: Negro espacial (#1a1a1a).
+- Contenedores/Tarjetas: Negro profundo (#111).
+- Encabezados/Nav: Gris acero (#2c2c2c / #3b3b3b).
+- Títulos y Botón Enviar: Degradado lineal de azul (#1976d2) a morado (#7b1fa2).
+- Párrafos: Blanco (#ffffff) y gris claro (#e0e0e0).
+
+2. LEGIBILIDAD Y CONSTRASTE:
+El texto se distingue perfectamente sobre el fondo oscuro gracias al uso de tarjetas sólidas con margen e imágenes alineadas.
+
+3. JUSTIFICACIÓN CONCEPTUAL:
+Los tonos oscuros, azulados y violetas transmiten la ambientación tecnológica y espacial, en perfecta sintonía con los prototipos diseñados en Canva.
+
+4. TABLA TÉCNICA DE MEDIA QUERIES Y RESPONSIVIDAD:
+- meta name="viewport": Ajusta el tamaño de la ventana gráfica en pantallas móviles.
+- flex-wrap: wrap: Permite la reestructuración automática de bloques cuando el ancho disminuye.
+- @media screen and (max-width: 600px): Aplica estilos específicos para pantallas pequeñas.
+- overflow-x: auto: Agrega desplazamiento horizontal únicamente si el contenido lo requiere.
+- width: 90%: Ocupa el 90% del ancho del elemento padre.
